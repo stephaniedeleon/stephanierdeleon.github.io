@@ -14,7 +14,7 @@ I'm a college student at Cal Poly Pomona pursuing a bachelors degree in Computer
 | MAT 1150: Calculus II | A |
 | KIN 2700: Stress Management for Healthy Living | A |
 
-Joined sheCodes.
+Joined sheCodes.\
 Dean's List
 
 ## 2020
@@ -30,10 +30,10 @@ Dean's List
 | BIO 1110L: Life Science Lab | A |
 | TH 2080: Intro to Film & American Culture | A |
 
-Involved in sheCodes as Social Chair & Science Council Representative.
-Volunteered as a notetaker for students with disabilities.
-Dean's List
-President's List
+Involved in sheCodes as Social Chair & Science Council Representative.\
+Volunteered as a notetaker for students with disabilities.\
+Dean's List\
+President's List\
 
 #### SUMMER SEMESTER CLASSES
 
@@ -52,7 +52,7 @@ President's List
 | PHY 1510: Newtonian Mechanics | A |
 | PHY 1510L: Newtonian Mechanics Lab | A |
 
-Involved in sheCodes as Social Chair & Science Council Representative.
+Involved in sheCodes as Social Chair & Science Council Representative.\
 Dean's List
 
 ## 2021
