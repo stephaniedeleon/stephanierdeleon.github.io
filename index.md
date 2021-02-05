@@ -33,7 +33,7 @@ Dean's List
 Involved in sheCodes as Social Chair & Science Council Representative.\
 Volunteered as a notetaker for students with disabilities.\
 Dean's List\
-President's List\
+President's List
 
 #### SUMMER SEMESTER CLASSES
 
