@@ -1,5 +1,3 @@
-# STEPHANIE DE LEON
-
 ### ABOUT ME
 I'm a college student at Cal Poly Pomona pursuing a bachelors degree in Computer Science. 
 
