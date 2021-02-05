@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+# STEPHANIE DE LEON
 
-You can use the [editor on GitHub](https://github.com/stephaniedeleon/stephanierdeleon.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### ABOUT ME
+I'm a college student at Cal Poly Pomona pursuing a bachelors degree in Computer Science. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 2019
 
-### Markdown
+#### FALL SEMESTER CLASSES
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| CLASS | GRADE |
+| ----- | ----- |
+| CS 1400: Introduction to Programming and Problem Solving | A |
+| CS 1300: Discrete Structures | A |
+| MAT 1150: Calculus II | A |
+| KIN 2700: Stress Management for Healthy Living | A |
 
-```markdown
-Syntax highlighted code block
+Joined sheCodes.
+Dean's List
 
-# Header 1
-## Header 2
-### Header 3
+## 2020
 
-- Bulleted
-- List
+#### SPRING SEMESTER CLASSES
 
-1. Numbered
-2. List
+| CLASS | GRADE |
+| ----- | ----- |
+| CS 2400: Data Structures and Advanced Programming | A |
+| MAT 2250: Linear Algebra Applications to Differential Equations | A |
+| STA 2260: Probability and Statistics for Computer Science and Engineers | A |
+| BIO 1110: Life Science | A |
+| BIO 1110L: Life Science Lab | A |
+| TH 2080: Intro to Film & American Culture | A |
 
-**Bold** and _Italic_ and `Code` text
+Involved in sheCodes as Social Chair & Science Council Representative.
+Volunteered as a notetaker for students with disabilities.
+Dean's List
+President's List
 
-[Link](url) and ![Image](src)
-```
+#### SUMMER SEMESTER CLASSES
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+| CLASS | GRADE |
+| ----- | ----- |
+| ENG 2105: Written Reasoning | A |
+| HST 2201: United States History to 1877 | A |
 
-### Jekyll Themes
+#### FALL SEMESTER CLASSES
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stephaniedeleon/stephanierdeleon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+| CLASS | GRADE |
+| ----- | ----- |
+| CS 2640: Computer Organization and Assembly Programming | A |
+| CS 3110: Formal Languages and Automata | A |
+| CS 2520: Python for Programmers | A |
+| PHY 1510: Newtonian Mechanics | A |
+| PHY 1510L: Newtonian Mechanics Lab | A |
 
-### Support or Contact
+Involved in sheCodes as Social Chair & Science Council Representative.
+Dean's List
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 2021
+
+#### SPRING SEMESTER CLASSES
+
+| CLASS | GRADE |
+| ----- | ----- |
+| CS 3560: Object-Oriented Design and Programming |  |
+| CS 4750: Mobile Application Development |  |
+| PHY 1520: Introduction to Electromagnetism and Circuits |  |
+| PHY 1520L: Introduction to Electromagnetism and Circuits Lab |  |
+| FRE 1111: Elementary French I |  |
+
+Involved in sheCodes as Social Chair & Science Council Representative and Codepath for Mobile App Development.
+
+
+
