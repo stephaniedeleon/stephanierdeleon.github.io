@@ -1,5 +1,5 @@
 ### ABOUT ME
-I'm a college student at Cal Poly Pomona pursuing a bachelors degree in Computer Science. 
+I'm a college student at Cal Poly Pomona pursuing a bachelors degree in Computer Science and I am currently the Social Chair and Science Council Representative of sheCodes.
 
 ## 2019
 
