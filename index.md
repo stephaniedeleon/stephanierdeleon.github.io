@@ -65,7 +65,8 @@ I'm a college student at Cal Poly Pomona pursuing a bachelor's degree in Compute
 | PHY 1520L: Introduction to Electromagnetism and Circuits Lab |  |
 | FRE 1111: Elementary French I |  |
 
-* Involved in sheCodes as Social Chair & Science Council Representative and Codepath for Mobile App Development.
+* Involved in sheCodes as Social Chair & Science Council Representative.
+* Involved in Codepath for Mobile App Development.
 
 
 
