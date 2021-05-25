@@ -59,14 +59,21 @@ I'm a college student at Cal Poly Pomona pursuing a bachelor's degree in Compute
 
 | CLASS | GRADE |
 | ----- | ----- |
-| CS 3560: Object-Oriented Design and Programming |  |
-| CS 4750: Mobile Application Development |  |
-| PHY 1520: Introduction to Electromagnetism and Circuits |  |
-| PHY 1520L: Introduction to Electromagnetism and Circuits Lab |  |
-| FRE 1111: Elementary French I |  |
+| CS 3560: Object-Oriented Design and Programming | A |
+| CS 4750: Mobile Application Development | A |
+| PHY 1520: Introduction to Electromagnetism and Circuits | A |
+| PHY 1520L: Introduction to Electromagnetism and Circuits Lab | A |
+| FRE 1111: Elementary French I | A |
 
 * Involved in sheCodes as Social Chair & Science Council Representative.
-* Involved in Codepath for Mobile App Development.
+* Involved in Codepath for Mobile App Development (won Best App Overall).
 
+#### FALL SEMESTER CLASSES
 
+| CLASS | GRADE |
+| ----- | ----- |
+| CS 4350: Database Systems |  |
+| BIO 3010: Human Sexuality |  |
+
+* Going to be involved in sheCodes as Internal Vice President.
 
