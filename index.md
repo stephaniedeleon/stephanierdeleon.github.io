@@ -67,13 +67,46 @@ I'm a college student at Cal Poly Pomona pursuing a bachelor's degree in Compute
 
 * Involved in sheCodes as Social Chair & Science Council Representative.
 * Involved in Codepath for Mobile App Development (won Best App Overall).
+* Dean's List
+* President's List
 
 #### FALL SEMESTER CLASSES
 
 | CLASS | GRADE |
 | ----- | ----- |
-| CS 4350: Database Systems |  |
-| BIO 3010: Human Sexuality |  |
+| CS 4350: Database Systems | A |
+| CS 3310: Design & Analysis of Algorithms | A |
+| AG 4010: Ethics Issue Food Agriculture Apparel | A |
+| BIO 3010: Human Sexuality | A |
 
-* Going to be involved in sheCodes as Internal Vice President.
+* Involved in sheCodes as Internal Vice President.
+* Dean's List
+
+## 2022
+
+#### SPRING SEMESTER CLASSES
+
+| CLASS | GRADE |
+| ----- | ----- |
+| CS 3650: Computer Architecture | A |
+| CS 3750: Computers & Society | A |
+| CS 4080: Concepts of Programming Languages | A |
+| PLS 2010: Intro to American Government | A |
+
+* Involved in sheCodes as Internal Vice President.
+* Dean's List
+* President's List
+* Summer Software Engineer Intern for Gap Inc.
+
+#### FALL SEMESTER CLASSES
+
+| CLASS | GRADE |
+| ----- | ----- |
+| CS 4200: Artificial Intelligence |  |
+| CS 4650: Big Data Analytics & Cloud Computing |  |
+| CS 4800: Software Engineering |  |
+| DAN 2700A: Hip-Hop Dance |  |
+| KIN 1550A: Stretching |  |
+
+* Going to be involved in sheCodes as President.
 
