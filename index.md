@@ -108,5 +108,6 @@ I'm a college student at Cal Poly Pomona pursuing a bachelor's degree in Compute
 | DAN 2700A: Hip-Hop Dance |  |
 | KIN 1550A: Stretching |  |
 
-* Going to be involved in sheCodes as President.
+* Involved in sheCodes as President.
+* Incoming Software Engineer for Gap Inc.
 
